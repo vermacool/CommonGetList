@@ -1,5 +1,5 @@
 {
-  "array": [
+  "places": [
     { "place_id":"1",
       "place_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwja8YOj9ZbjAhWDiHAKHakUC_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.showincity.com%2Fvenues%2Fv-9179%2Fgarden-of-five-senses-delhi&psig=AOvVaw0fCoC4zsRvmubgnhkM_Ex8&ust=1562180283850457",
       "latlong":"27.174948, 78.042144",
