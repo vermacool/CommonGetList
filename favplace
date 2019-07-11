@@ -1,18 +1,22 @@
 {
   "places": [
     { "place_id":"1",
-      "place_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwja8YOj9ZbjAhWDiHAKHakUC_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.showincity.com%2Fvenues%2Fv-9179%2Fgarden-of-five-senses-delhi&psig=AOvVaw0fCoC4zsRvmubgnhkM_Ex8&ust=1562180283850457",
-      "latlong":"27.174948, 78.042144",
-      "video_url":""
+      "place_url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
+      "latlong":"27.174819,78.042122",
+      "video_url":"665AHTNpf2o"
     },
     { "place_id":"2",
-      "place_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwja8YOj9ZbjAhWDiHAKHakUC_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.showincity.com%2Fvenues%2Fv-9179%2Fgarden-of-five-senses-delhi&psig=AOvVaw0fCoC4zsRvmubgnhkM_Ex8&ust=1562180283850457",
-      "latlong":"28.526073, 77.191580",
-      "video_url":""},
+      "place_url":"https://cdn.getyourguide.com/img/location_img-2703-1061214306-148.jpg",
+      "latlong":"25.197174,55.274400",
+      "video_url":"cn7AFhVEI5o"},
     { "place_id":"3",
-      "place_url":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwja8YOj9ZbjAhWDiHAKHakUC_cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.showincity.com%2Fvenues%2Fv-9179%2Fgarden-of-five-senses-delhi&psig=AOvVaw0fCoC4zsRvmubgnhkM_Ex8&ust=1562180283850457",
-      "latlong":"28.557356, 77.192992",
-      "video_url":""}
+      "place_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Statue_of_Liberty_7.jpg/250px-Statue_of_Liberty_7.jpg",
+      "latlong":"28.557356,77.192992",
+      "video_url":"0r7i8riYCe0"},
+    { "place_id":"4",
+      "place_url":"https://static.india.com/wp-content/uploads/2018/08/sanjay-van.jpg",
+      "latlong":"28.526173, 77.191604",
+      "video_url":"xXiXvGqW1qw"}
   ],
   
   "status": true
