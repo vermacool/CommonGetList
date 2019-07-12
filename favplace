@@ -1,22 +1,26 @@
 {
   "places": [
     { "place_id":"1",
-      "place_url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
-      "latlong":"27.174819,78.042122",
-      "video_url":"665AHTNpf2o"
+      "place_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Louve_Abu_Dhabi.jpg/220px-Louve_Abu_Dhabi.jpg",
+      "latlong":"24.533714, 54.398256",
+      "video_url":"RCzD-6DxBSU"
     },
     { "place_id":"2",
-      "place_url":"https://cdn.getyourguide.com/img/location_img-2703-1061214306-148.jpg",
-      "latlong":"25.197174,55.274400",
-      "video_url":"cn7AFhVEI5o"},
+      "place_url":"https://content.r9cdn.net/rimg/himg/74/01/05/leonardo-1261810-resort_landscape_25_01_2016_6550_S-image.jpg?width=1004&crop=true&caller=HotelDetailsPhoto",
+      "latlong":"25.130432, 55.117143",
+      "video_url":"LhdkD6CY9HE"},
     { "place_id":"3",
-      "place_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Statue_of_Liberty_7.jpg/250px-Statue_of_Liberty_7.jpg",
-      "latlong":"28.557356,77.192992",
-      "video_url":"0r7i8riYCe0"},
+      "place_url":"https://cdn.edarabia.com/wp-content/uploads/2018/10/facts-sheikh-zayed-grand-mosque-abu-dhabi.jpg",
+      "latlong":"25.096315, 55.158083",
+      "video_url":"FbZcHZl1ee8"},
     { "place_id":"4",
       "place_url":"https://static.india.com/wp-content/uploads/2018/08/sanjay-van.jpg",
-      "latlong":"28.526173, 77.191604",
-      "video_url":"xXiXvGqW1qw"}
+      "latlong":"24.458798, 54.321895",
+      "video_url":"rWz7IC5s3dQ"},
+    { "place_id":"5",
+      "place_url":"https://dynaimage.cdn.cnn.com/cnn/q_auto,w_412,c_fill,g_auto,h_232,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F180301130119-burj-khalifa-dubai-guide-8.jpg",
+      "latlong":"25.1972, 55.2744",
+      "video_url":"itH8Bm2G28I"}
   ],
   
   "status": true
