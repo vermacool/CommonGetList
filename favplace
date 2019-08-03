@@ -55,6 +55,13 @@
       "video_url":"l5sZEHVaPms",
       "place_name":"Qutb Minar",
       "place_description":"The Qutub Minar, also spelled as Qutb Minar, is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India."
+    },
+      { "place_id":"9",
+      "place_url":"https://c.ndtvimg.com/qutub-minar-650_625x300_1530453081066.jpg",
+      "latlong":"28.525215, 77.189562",
+      "video_url":"l5sZEHVaPms",
+      "place_name":"Tara Wala Park",
+      "place_description":"Green Area, Phase-1, Opp Crescent."
     }
   ],
   
