@@ -1,69 +1,119 @@
 {
   "places": [
-    { "place_id":"1",
-      "place_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Louve_Abu_Dhabi.jpg/220px-Louve_Abu_Dhabi.jpg",
-      "latlong":"24.533714, 54.398256",
-      "video_url":"RCzD-6DxBSU",
-      "place_name":"Louvre abu dhabi",
-      "place_description":"The Louvre Abu Dhabi is an art and civilization museum, located in Abu Dhabi, United Arab Emirates."
+    {
+      "place_id": "1",
+      "place_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Louve_Abu_Dhabi.jpg/220px-Louve_Abu_Dhabi.jpg",
+      "latlong": "24.533700, 54.398100",
+      "video_url": "oxVebHZg1EM",
+      "place_name": "Louvre abu dhabi",
+      "place_description": "The Louvre Abu Dhabi is an art and civilization museum, located in Abu Dhabi, United Arab Emirates."
     },
-    { "place_id":"2",
-      "place_url":"https://content.r9cdn.net/rimg/himg/74/01/05/leonardo-1261810-resort_landscape_25_01_2016_6550_S-image.jpg?width=1004&crop=true&caller=HotelDetailsPhoto",
-      "latlong":"25.130432, 55.117143",
-      "video_url":"LhdkD6CY9HE",
-      "place_name":"Atlantis, The Palm",
-      "place_description":"On iconic Palm Jumeirah island in the Arabian Gulf, this posh resort is 14 km from Wild Wadi Water Park and 15 km from the upscale shops in the Mall of the Emirates."
+    {
+      "place_id": "2",
+      "place_url": "https://content.r9cdn.net/rimg/himg/74/01/05/leonardo-1261810-resort_landscape_25_01_2016_6550_S-image.jpg?width=1004&crop=true&caller=HotelDetailsPhoto",
+      "latlong": "25.130400, 55.117100",
+      "video_url": "LhdkD6CY9HE",
+      "place_name": "Atlantis, The Palm",
+      "place_description": "On iconic Palm Jumeirah island in the Arabian Gulf, this posh resort is 14 km from Wild Wadi Water Park and 15 km from the upscale shops in the Mall of the Emirates."
     },
-    { "place_id":"3",
-      "place_url":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Sheikh_Zayed_Mosque_view.jpg/220px-Sheikh_Zayed_Mosque_view.jpg",
-      "latlong":"25.096315, 55.158083",
-      "video_url":"FbZcHZl1ee8",
-      "place_name":"Sheikh Zayed Mosque",
-      "place_description":"The Sheikh Zayed Grand Mosque is located in Abu Dhabi, the capital city of the United Arab Emirates."
+    {
+      "place_id": "3",
+      "place_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Sheikh_Zayed_Mosque_view.jpg/220px-Sheikh_Zayed_Mosque_view.jpg",
+      "latlong": "24.412700, 54.475900",
+      "video_url": "UnEq-Q1C_7Y",
+      "place_name": "Sheikh Zayed Mosque",
+      "place_description": "The Sheikh Zayed Grand Mosque is located in Abu Dhabi, the capital city of the United Arab Emirates."
     },
-    { "place_id":"4",
-      "place_url":"https://upload.wikimedia.org/wikipedia/en/thumb/1/18/EtihadTowers%2C_Abu_Dhabi%2C_November_2012.jpg/250px-EtihadTowers%2C_Abu_Dhabi%2C_November_2012.jpg",
-      "latlong":"24.458798, 54.321895",
-      "video_url":"rWz7IC5s3dQ",
-      "place_name":"Etihad Towers",
-      "place_description":"Etihad Towers is a complex of buildings with five towers in Abu Dhabi, the capital city of the United Arab Emirates."
+    {
+      "place_id": "4",
+      "place_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/EtihadTowers%2C_Abu_Dhabi%2C_November_2012.jpg/250px-EtihadTowers%2C_Abu_Dhabi%2C_November_2012.jpg",
+      "latlong": "24.458700, 54.321800",
+      "video_url": "rWz7IC5s3dQ",
+      "place_name": "Etihad Towers",
+      "place_description": "Etihad Towers is a complex of buildings with five towers in Abu Dhabi, the capital city of the United Arab Emirates."
     },
-    { "place_id":"5",
-      "place_url":"https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/240px-Burj_Khalifa.jpg",
-      "latlong":"25.1972, 55.2744",
-      "video_url":"itH8Bm2G28I",
-      "place_name":"Burj Khalifa",
-      "place_description":"The Burj Khalifa known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates."
+    {
+      "place_id": "5",
+      "place_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/240px-Burj_Khalifa.jpg",
+      "latlong": "25.197200, 55.274400",
+      "video_url": "itH8Bm2G28I",
+      "place_name": "Burj Khalifa",
+      "place_description": "The Burj Khalifa known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates."
     },
-    { "place_id":"6",
-      "place_url":"https://www.indiaglycols.com/divisions/images/rhs_industrial_gases.jpg",
-      "latlong":"28.539237, 77.343499",
-      "video_url":"itH8Bm2G28I",
-      "place_name":"Test: India Glycols",
-      "place_description":"India Glycols holds the distinction of being the only green petrochemical company of its kind."
-      },
-    { "place_id":"7",
-      "place_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/220px-A_small_cup_of_coffee.JPG",
-      "latlong":"28.417257, 77.100603",
-      "video_url":"95tUgLQd6KM",
-      "place_name":"Test: Cafe",
-      "place_description":"Baharampur Naya, Sector 65, Gurugram, Haryana 122001"
-       },
-    { "place_id":"8",
-      "place_url":"https://c.ndtvimg.com/qutub-minar-650_625x300_1530453081066.jpg",
-      "latlong":"28.524443, 77.185512",
-      "video_url":"l5sZEHVaPms",
-      "place_name":"Test: Qutb Minar",
-      "place_description":"The Qutub Minar, also spelled as Qutb Minar, is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India."
+    {
+      "place_id": "6",
+      "place_url": "https://www.indiaglycols.com/divisions/images/rhs_industrial_gases.jpg",
+      "latlong": "28.539237, 77.343499",
+      "video_url": "itH8Bm2G28I",
+      "place_name": "Test: India Glycols",
+      "place_description": "India Glycols holds the distinction of being the only green petrochemical company of its kind."
     },
-      { "place_id":"9",
-      "place_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ahinsa_Sthal.jpg/220px-Ahinsa_Sthal.jpg",
-      "latlong":"28.523946, 77.183512",
-      "video_url":"V45Sr8cX0lw",
-      "place_name":"Test : Tara Wala Park",
-      "place_description":"Green Area, Phase-1, Opp Crescent."
+    {
+      "place_id": "7",
+      "place_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/220px-A_small_cup_of_coffee.JPG",
+      "latlong": "28.417257, 77.100603",
+      "video_url": "95tUgLQd6KM",
+      "place_name": "Test: Cafe",
+      "place_description": "Baharampur Naya, Sector 65, Gurugram, Haryana 122001"
+    },
+    {
+      "place_id": "8",
+      "place_url": "https://c.ndtvimg.com/qutub-minar-650_625x300_1530453081066.jpg",
+      "latlong": "28.524443, 77.185512",
+      "video_url": "l5sZEHVaPms",
+      "place_name": "Test: Qutb Minar",
+      "place_description": "The Qutub Minar, also spelled as Qutb Minar, is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India."
+    },
+    {
+      "place_id": "9",
+      "place_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ahinsa_Sthal.jpg/220px-Ahinsa_Sthal.jpg",
+      "latlong": "28.523946, 77.183512",
+      "video_url": "V45Sr8cX0lw",
+      "place_name": "Test : Tara Wala Park",
+      "place_description": "Green Area, Phase-1, Opp Crescent."
+    },
+    { "place_id":"10",
+      "place_url":"https://www.odyfolioemirates.com/pic_medium/uae/uae_al-ain_fort_Qasr-Al-Muwaiji.JPG",
+      "latlong":"24.225208, 55.726952",
+      "video_url":"IUbWM6Vl5Pk",
+      "place_name":"Qasr Al Muwaiji Grand",
+      "place_description":"Discover the birth of a nation and visit Qasr Al Muwaiji in Al Ain."
+    },
+    { "place_id":"11",
+      "place_url":"https://www.arabianbusiness.com/sites/default/files/styles/full_img/public/images/2018/12/04/9.-View-of-Qasr-al-Hosn.jpg",
+      "latlong":"24.482200, 54.354700",
+      "video_url":"DQpltg4krGw",
+      "place_name":"Qasr Al Hosn",
+      "place_description":"Qasr Al Hosn is the oldest and most significant building in Abu Dhabi, holding the city’s first permanent structure; the watchtower."
+    },
+    { "place_id":"12",
+      "place_url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Alley_in_Al_Ain_Oasis.JPG",
+      "latlong":"24.215600, 55.763400",
+      "video_url":"BpbZmzBS9uw",
+      "place_name":"Al Ain Oasis",
+      "place_description":"The historic oasis sprawls across 3,000-acre and provides a unique insight into the region's inhabitants who began taming the desert 4,000 years ago. "
+    },
+    { "place_id":"13",
+      "place_url":"https://imagevars.gulfnews.com/2019/03/11/190311_Qasr_Al_Watan_resources1_16a30b33123_large.jpg",
+      "latlong":"24.456398, 54.311943",
+      "video_url":"-AG64rf419g",
+      "place_name":"Qasr Al Watan",
+      "place_description":"Qasr Al Watan, the new cultural landmark in Abu Dhabi, opens its doors to the public in an invitation to discover the legacy of knowledge and tradition that have shaped the journey of the nation."
+    },
+    { "place_id":"14",
+      "place_url":"https://photos.wikimapia.org/p/00/01/12/96/60_big.jpg",
+      "latlong":"24.464300, 54.327400",
+      "video_url":"pX8MhSylnHo",
+      "place_name":"Nation Towers Corniche",
+      "place_description":"The two buildings are located directly at the Abu Dhabi Corniche and have 65 and 52 floors."
+    },
+    { "place_id":"15",
+      "place_url":"https://photos.wikimapia.org/p/00/00/71/90/69_big.jpg",
+      "latlong":"24.216157, 55.752727",
+      "video_url":"OtEvxveP6qM",
+      "place_name":"Al Jahili Fort",
+      "place_description":"Since opening its gates in 2008, Al Jahili Fort has been a cultural the focal point of activities associated with philosophy and heritage of Abu Dhabi in the Garden City. "
     }
   ],
-  
   "status": true
 }
