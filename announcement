@@ -1,6 +1,6 @@
 {
   "message": "We are giving 60% return of your conversion money.",
-  "showbanner": true,
+  "showbanner": false,
   "status": "success",
   "version":9,
   "updateapp": "no"
