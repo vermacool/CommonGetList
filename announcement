@@ -1,6 +1,6 @@
 {
-  "message": ".................☸ Happy Independence Day ☸.................",
-  "showbanner": true,
+  "message": "",
+  "showbanner": false,
   "status": "success",
   "version":9,
   "updateapp": "no"
