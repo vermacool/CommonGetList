@@ -1,2 +1,12 @@
 {
+  "message": "",
+  "showbanner": false,
+  "status": "success",
+  "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7 days of transaction.",
+  "payoutpercent":"60",
+  "headerimageurl":"",
+  "maillist": ["manish.kumar3@girnarsoft.com","manish13101993@gmail.com"]
+  "version":9,
+  "updateapp": "no"
+  
 }
