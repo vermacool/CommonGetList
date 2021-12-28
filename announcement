@@ -1,8 +1,8 @@
 {
-  "message": "",
-  "showbanner": false,
+  "message": "Few old orders may be paid after a short delay but without fail. Happy new year in advance.",
+  "showbanner": true,
   "status": "success",
-  "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7 days of transaction.",
+  "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
   "payoutpercent":"60",
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.jpg",
   "maillist": ["manish.kumar3@girnarsoft.com","manish13101993@gmail.com","amitmeenameena8@gmail.com","mukeshmeena73745@gmail.com","amit90187062@gmail.com",
