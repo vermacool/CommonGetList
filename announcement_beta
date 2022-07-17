@@ -6,6 +6,7 @@
   "payoutpercent":"60",
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.jpg",
   "maillist": ["manish.kumar3@girnarsoft.com","manish13101993@gmail.com"],
+  "orderItemlist": ["convert_100_points_consumable","convert_250_points_consumable","convert_500_points_consumable","convert_1000_points_consumable","convert_5000_points_consumable","convert_10000_points_consumable","convert_15000_points_consumable","convert_20000_points_consumable"],
   "version":9,
   "updateapp": "no"
   
