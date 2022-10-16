@@ -5,9 +5,9 @@
   "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
   "payoutpercent":"60",
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.jpg",
-  "maillist": ["Rohitjaat84420@gmail.com","manish13101993@gmail.com","amitmeenameena8@gmail.com","mukeshmeena73745@gmail.com","amit90187062@gmail.com",
+  "maillist": ["Rohitjaat84420@gmail.com","amitmeenameena8@gmail.com","mukeshmeena73745@gmail.com","amit90187062@gmail.com",
   "gmeena150r@gmail.com","amit90187062@gmail.com","Pawankumar335062@gmail.com"],
-  "orderItemlist": ["convert_30_points_consumable","convert_50_points_consumable"],
+  "orderItemlist": ["convert_30_points_consumable"],
   "version":9,
   "updateapp": "no"
 }
