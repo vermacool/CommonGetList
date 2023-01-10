@@ -1,5 +1,5 @@
 {
-  "message": "Notice: Users with Orders above 500 rupee will get money in 5-7 days, whereas below 500 rupee order amount gets transferred in 7 to 15 days.(EN)\nसूचना: 500 रुपये से ऊपर के ऑर्डर वाले यूजर्स को 5-7 दिनों में पैसा मिल जाएगा, जबकि 500 रुपये से कम के ऑर्डर की राशि 7 से 15 दिनों में ट्रांसफर हो जाती है।| (HI)",
+  "message": "Notice: Users with Orders above 500 rupee will get money in 5-7 days rest will in 7-15 days.(EN)\nसूचना: 500 रुपये से ऊपर के ऑर्डर वाले यूजर्स को 5-7 दिनों में पैसा मिल जाएगा।| (HI)",
   "showbanner": true,
   "status": "success",
   "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
