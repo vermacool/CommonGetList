@@ -1,5 +1,5 @@
 {
-  "message": "Notice: Users with Orders above 500 rupee will get money in 5-7 days, rest will get in 7-15 days.(EN)\nसूचना: 500 रुपये से ऊपर के ऑर्डर वाले यूजर्स को 5-7 दिनों में पैसा मिल जाएगा।| (HI)",
+  "message": "Notice: You'll get your redeem money in 7-15 days.(EN)\nसूचना: आपको आपका पैसा 7-15 दिनों में मिल जाएगा| (HI)",
   "showbanner": true,
   "status": "success",
   "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
@@ -7,7 +7,7 @@
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.jpg",
   "maillist": ["Rohitjaat84420@gmail.com","amitmeenameena8@gmail.com","mukeshmeena73745@gmail.com","amit90187062@gmail.com",
   "gmeena150r@gmail.com","amit90187062@gmail.com","Pawankumar335062@gmail.com","kush9206@gmail.com"],
-  "orderItemlist": ["convert_30_points_consumable"],
+  "orderItemlist": ["convert_30_points_consumable","convert_50_points_consumable"],
   "version":26,
   "updateapp": "soft"
 }
