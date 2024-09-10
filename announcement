@@ -1,8 +1,8 @@
 {
-  "message": "Notice: Payment processing within 7 days; old orders paid soon.",
+  "message": "Please Download Digital Conversion App from Google Playstore for new Orders. New App package com.sked.digitalconversion",
   "showbanner": true,
   "status": "success",
-  "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
+  "termsncondition": "We have migrated Rewards Converter India to Digital Conversion (com.sked.digitalconversion) App. Please download Digital Conversion from Google Playstore. : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
   "payoutpercent":"60",
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.jpg",
   "maillist": ["Rohitjaat84420@gmail.com","amitmeenameena8@gmail.com","mukeshmeena73745@gmail.com","amit90187062@gmail.com",
