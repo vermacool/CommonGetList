@@ -1,12 +1,12 @@
 {
-  "message": "Urgent Notice: Please use Digital Conversion App for new orders. Old orders will be paid soon.",
+  "message": "Urgent Notice: Please Download Digital Conversion App for making new orders. App's package name com.sked.digitalconversion",
   "showbanner": true,
   "status": "success",
   "termsncondition": "By continuing you are agree with our *Terms & Condition : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
   "payoutpercent":"60",
-  "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.jpg",
+  "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.png",
   "maillist": ["Rohitjaat84420@gmail.com"],
   "orderItemlist": ["convert_30_points_consumable"],
-  "version":1,
-  "updateapp": ""
+  "version":5,
+  "updateapp": "soft"
 }
