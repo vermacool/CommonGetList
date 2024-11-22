@@ -6,7 +6,7 @@
   "payoutpercent":"60",
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.png",
   "maillist": ["Rohitjaat84420@gmail.com"],
-  "orderItemlist": ["convert_30_points_consumable"],
+  "orderItemlist": [],
   "version":5,
   "updateapp": "soft"
 }
