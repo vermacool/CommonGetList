@@ -1,8 +1,8 @@
 {
-  "message": "Please Download 'Digital Conversion: Rewards' App from Google Playstore for new Orders. New App package com.sked.digitalconversion",
+  "message": "Imp Notice: This app was removed by Google Play team. Please contact us at rcisupport@x.skedsoft.com. You all will get your money for sure.",
   "showbanner": true,
   "status": "success",
-  "termsncondition": "We have migrated Rewards Converter India to Digital Conversion i.e com.sked.digitalconversion App. Please download Digital Conversion from Google Playstore. : You will receive 60% of total amount in your wallet or account within 7-15 days of transaction.",
+  "termsncondition": "Imp Notice: This app was removed by Google Play team. Please contact us at rcisupport@x.skedsoft.com.",
   "payoutpercent":"60",
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_home_background.png",
   "maillist": ["kush9206@gmail.com"],
