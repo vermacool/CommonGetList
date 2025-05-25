@@ -4,11 +4,12 @@
   "status": "success",
   "termsncondition": "By proceeding, you agree to our Terms &amp; Conditions. Earned or converted points will be credited to your in-app wallet within 7 days. These wallet credits are for in-app use only and cannot be redeemed for cash or transferred outside the app.",
   "payoutpercent":"60",
-  "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_background_rewardify.jpg",
+  "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_background_rewardify.png",
   "maillist": ["kush9206@gmail.com"],
   "orderItemlist": ["convert_30_points_consumable"],
   "version":1,
   "updateapp": "soft",
   "updateappurl": "https://play.google.com/store/apps/details?id=com.cipherwings.redeemify",
-  "updateAppDescription": "Please update the app to the latest version to enjoy the new features and improvements."
+  "updateAppDescription": "Please update the app to the latest version to enjoy the new features and improvements.",
+  "playstoreurl":"https://play.google.com/store/apps/details?id=com.sked.books&hl=en_IN"
 }
