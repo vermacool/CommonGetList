@@ -1,8 +1,8 @@
 {
-  "message": "You can shop points and redeem them for exciting rewards.",
+  "message": "You can shop points and redeem them for exciting In-App rewards.",
   "showbanner": true,
   "status": "success",
-  "termsncondition": "By proceeding, you agree to our Terms &amp; Conditions. Earned or converted points will be credited to your in-app wallet within 7 days. These wallet credits are for in-app use only and cannot be redeemed for cash or transferred outside the app.",
+  "termsncondition": "Terms and Condition: Earned or converted points will be credited to your in-app wallet within 7 days.",
   "payoutpercent":"60",
   "headerimageurl":"https://raw.githubusercontent.com/vermacool/CommonGetList/master/ic_background_rewardify.png",
   "maillist": ["kush9206@gmail.com"],
